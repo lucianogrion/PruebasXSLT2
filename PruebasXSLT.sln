@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasXSLT", "PruebasXSLT\PruebasXSLT.csproj", "{2D6303D4-986F-4EA1-B356-D87F39B4D6EC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ntprodu:9000/tfs/adc%20-%20bora
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PruebasXSLT\\PruebasXSLT.csproj
+		SccProjectName1 = PruebasXSLT
+		SccLocalPath1 = PruebasXSLT
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6303D4-986F-4EA1-B356-D87F39B4D6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6303D4-986F-4EA1-B356-D87F39B4D6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6303D4-986F-4EA1-B356-D87F39B4D6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6303D4-986F-4EA1-B356-D87F39B4D6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
